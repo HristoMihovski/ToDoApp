@@ -8,13 +8,13 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top: 50px;
   background-color: #e1e3ea;
   height: 100vh;
   font-family: sans-serif;
 }
 
 .app {
-  margin-top: 50px;
   width: 60%;
 }
 
